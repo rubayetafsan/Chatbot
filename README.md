@@ -15,8 +15,9 @@ A simple and interactive chatbot assistant built with Node.js, Expressjs, and Mo
 
 ---
 
-## Screenshots
+## Screenshot
 
+![Chatbot Screenshot](Frontend/src/assets/Chatbot.jpg)
 
 ---
 
